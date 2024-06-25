@@ -169,7 +169,7 @@
 		<dependency>
 			<groupId>org.xwiki.rendering</groupId>
 			<artifactId>xwiki-rendering-api</artifactId>
-		    <version>16.4.0</version>
+		    <version>16.5.0</version>
 		</dependency>
 				
 
