@@ -163,7 +163,7 @@
 		<dependency>
 			<groupId>org.xwiki.commons</groupId>
 			<artifactId>xwiki-commons-component-default</artifactId>
-		    <version>16.4.0</version>
+		    <version>16.5.0</version>
 		</dependency>
 
 		<dependency>
